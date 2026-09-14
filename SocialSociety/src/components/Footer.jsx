@@ -10,7 +10,7 @@ export default function Footer() {
         </p>
       </div>
       <div className="footer__bottom">
-        © {new Date().getFullYear()} Group ___ · MCO 1 · All sources cited on the References section.
+        © {new Date().getFullYear()} Group 4 · MCO 1 · All sources cited on the References section.
       </div>
     </footer>
   )
